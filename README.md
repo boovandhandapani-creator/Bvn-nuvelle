@@ -21,5 +21,5 @@
 - 🔎 Cyber Security Mini Projects
 
 ## 📫 Connect With Me
-- LinkedIn: ...
-- Email: ...
+- Email: boovandhandapani@gmail.com
+- Instagram: nuvelle.elorix._
