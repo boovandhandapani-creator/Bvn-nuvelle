@@ -1,6 +1,7 @@
 # Hi, I'm Boovan 👋
 
-🎓 B.Sc Computer Science (Cyber Security) Student
+🎓 B.Sc Computer Science (Cyber Security) Student 
+ in VISTAS Thiruvanmiyur 
 
 ## 🚀 About Me
 - Interested in Cyber Security and Web Development
