@@ -9,9 +9,6 @@
 
 ## 🛠️ Skills
 - Python
-- HTML
-- CSS
-- JavaScript
 - Git & GitHub
 
 ## 📂 Projects
